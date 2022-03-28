@@ -7,8 +7,7 @@ Here we blink two LED's continuously with dealy between on & off of LED is 500 m
 
 ## Installation 
   <b>I.Arduino IDE</b>   
-  <i>step 1:</i> Visit https://www.arduino.cc/en/Main/Software  to download the latest Arduino IDE version for your computer’s operating system. There are versions                      forWindows, Mac, and Linux systems.Download the suitable file for your system    
-  
+  <i>step 1:</i> Visit https://www.arduino.cc/en/Main/Software  to download the latest Arduino IDE version for your computer’s operating system. There are versions                      forWindows, Mac, and Linux systems.Download the suitable file for your system        
   <i>step 2:</i> Save the .exe file to your hard drive.  
   <i>step 3:</i> Open the .exe file & run the file and complete the Installation. 
   
