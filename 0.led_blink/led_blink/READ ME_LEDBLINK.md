@@ -13,7 +13,7 @@ Here we blink two LED's continuously with dealy between on & off of LED is 500 m
   
   <b>II.Installing the ESP32 Board in Arduino IDE</b>  
   <i> step 1:</i> Connect ESP 32 board to the computer through USB cable  
-   <i>step 2:</i> open the Arduino  
+   <i>step 2:</i> open the Arduino IDE
    <i>step 3:</i> Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
                   https://dl.espressif.com/dl/package_esp32_index.json  
   <i> step 4:</i>	Go to the Tools  >  boards  >  Board manager and then install the ESP 32  
