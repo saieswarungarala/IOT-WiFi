@@ -17,7 +17,7 @@ Here we blink two LED's continuously with dealy between on & off of LED is 500 m
    step 2: open the Arduino  
    step 3: 	Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
    https://dl.espressif.com/dl/package_esp32_index.json  
-   step 4:	Go to the Tools  >  boards  >  Board manager and then install the ESP 32  
+   step 4:	Go to the <b>Tools</b>  >  boards  >  Board manager and then install the ESP 32  
 
 
 
