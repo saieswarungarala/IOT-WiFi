@@ -6,7 +6,7 @@ Here we blink two LED's continuously with dealy between on & off of LED is 500 m
 
 
 ## Installation 
-  <b style="font-size:14px; color:red">1.Arduino IDE</b>   
+  <b style="font-size:14px">1.Arduino IDE</b>   
   <i>step 1:</i>          
   Visit https://www.arduino.cc/en/Main/Software  to download the latest Arduino IDE version for your computer’s operating system. There are versions for Windows, Mac, and Linux systems.  
   step 2: Save the .exe file to your hard drive.  
