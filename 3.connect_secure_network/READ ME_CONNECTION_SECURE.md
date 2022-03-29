@@ -1,5 +1,5 @@
 
-#  Connect ESP 32 to an open Wi-Fi network  
+#  Connect ESP 32 to an Secure Wi-Fi network  
 # Description
 To connect the ESP32 to a specific Wi-Fi network, we should know its SSID and password. 
 Additionally, that network must be within the ESP32 Wi-Fi range. After scanning the list of Wi-Fi networks we need to connect ESP 32 to one of the specific network. We have mainly two types of network connections are available these are open network and encrypted secure 
