@@ -34,7 +34,7 @@ return the byte of data from that we can conclude which type of network.
 ## Required Libraries
 We need to include WiFi library to use WiFi funcationalities of ESP 32 WROVER -B Module
 
-<b>#inclue <WiFi.h></b>
+<b>#include <WiFi.h></b>
 
 Once we install the ESP 32 boards to the IDE it can automatically adds the WiFi library
 
