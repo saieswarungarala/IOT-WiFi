@@ -45,9 +45,11 @@ Wi-Fi network, and nearby Wi-Fi devices (stations) can connect to it, like Smart
      
 
 
-# Required Libraries
+## Required Libraries
 We need to include WiFi library to use WiFi funcationalities of ESP 32 WROVER -B Module
-#inclue <WiFi.h>
+
+<b>#inclue <WiFi.h></b>
+
 Once we install the ESP 32 boards to the IDE it can automatically adds the WiFi library
 
 
