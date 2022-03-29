@@ -1,11 +1,12 @@
 
-#  Connect ESP 32 to an Secure Wi-Fi network  
+#  web server using ESP 32 
+ 
 # Description
-To connect the ESP32 to a specific Wi-Fi network, we should know its SSID and password. 
-Additionally, that network must be within the ESP32 Wi-Fi range. After scanning the list of Wi-Fi networks we need to connect ESP 32 to one of the specific network. We have mainly two types of network connections are available these are open network and encrypted secure 
-network. We can classify the type of network by using <b>WiFi.encryptionType 
-(wifiAccesspoint)</b>.Where wifiAccesspoint is the name of the respective Wi-Fi network it will 
-return the byte of data from that we can conclude which type of network.
+The main aim of this experiment is get some understanding about building a web server with 
+ESP 32 and control the LED’s state by using arduino programming environment. The web server 
+we build that controls the LED’s which is connected to the ESP 32 GPIO 26 pin and also we 
+can access the ESP 32 web server at anywhere by just typing ESP 32 IP address on a browser. 
+By clicking buttons on the web server we can control the state of LED’s at ESP 32 side.
 
 
 ## Installation 
@@ -19,7 +20,7 @@ return the byte of data from that we can conclude which type of network.
    <i>step 1:</i> Connect ESP 32 board to the computer through USB cable  
    <i>step 2:</i> open the Arduino  
    <i>step 3:</i> 	Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
-   https://dl.espressif.com/dl/package_esp32_index.json  
+          https://dl.espressif.com/dl/package_esp32_index.json  
    <i>step 4:</i>	Go to the Tools  >  boards  >  Board manager and then install the ESP 32  
 
 
