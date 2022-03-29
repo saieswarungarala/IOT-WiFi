@@ -23,13 +23,13 @@ Wi-Fi network, and nearby Wi-Fi devices (stations) can connect to it, like Smart
 
 
 ## Installation 
-  1.Arduino IDE   
+ <h4 style="color:black;font-size:40px;"> <b> 1.Arduino IDE</b>  </h4>
   step 1:          
   Visit https://www.arduino.cc/en/Main/Software  to download the latest Arduino IDE version for your computer’s operating system. There are versions for Windows, Mac, and Linux systems.  
   step 2: Save the .exe file to your hard drive.  
   step 3:Open the .exe file & run the file and complete the Installation.       
 
-  2.Installing the ESP32 Board in Arduino IDE  
+  <b><h4 style="color:black;font-size:40px;">2.Installing the ESP32 Board in Arduino IDE  </b>  </h4>
    step 1: Connect ESP 32 board to the computer through USB cable  
    step 2: open the Arduino  
    step 3: 	Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
