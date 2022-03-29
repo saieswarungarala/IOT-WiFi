@@ -1,12 +1,8 @@
 
-#  Web Server Using ESP 32 
+#  MQTT Protocol with ESP 32
  
 # Description
-The main aim of this experiment is get some understanding about building a web server with 
-ESP 32 and control the LED’s state by using arduino programming environment. The web server 
-we build that controls the LED’s which is connected to the ESP 32 GPIO 26 pin and also we 
-can access the ESP 32 web server at anywhere by just typing ESP 32 IP address on a browser. 
-By clicking buttons on the web server we can control the state of LED’s at ESP 32 side.
+The main of this experiment is getting some intuition about how MQTT communication is working
 
 
 ## Installation 
