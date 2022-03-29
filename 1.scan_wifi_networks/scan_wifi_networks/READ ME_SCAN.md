@@ -1,8 +1,7 @@
 
-# LED Blinking
+# Scan WiFi networks 
 # Description
-The main aim of this experiment is getting some knowledge about how to handle ESP 32 and how to code it with arduino IDE.
-Here we blink two LED's continuously with dealy between on & off of LED is 500 milliseconds.These LEDS are connected to the GPIO(General Purpose Input Output)pins 26 and 27. 
+ 
 
 
 ## Installation 
