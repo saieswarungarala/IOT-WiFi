@@ -1,7 +1,8 @@
 
 # Scan WiFi networks 
 # Description
- 
+ Scan the nearby Wi-Fi networks using ESP 32. Get the SSID, RSSI of a network 
+ and check the authentication of the network (open network or secure network). 
 
 
 ## Installation 
