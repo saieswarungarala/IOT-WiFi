@@ -1,5 +1,5 @@
 
-# Scan WiFi networks 
+#  Connect ESP 32 to an open Wi-Fi network  
 # Description
  Scan the nearby Wi-Fi networks using ESP 32. Get the SSID, RSSI of a network 
  and check the authentication of the network (open network or secure network). ESP 32 has built in Wi-Fi (802.11 b/g/n (802.11n up to 150Mbps) protocol .Center frequency range of operating channel 2412 ~ 2484 MHz’s.    
