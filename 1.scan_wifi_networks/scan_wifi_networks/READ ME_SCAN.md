@@ -10,7 +10,7 @@ ESP 32 can operate under any of below mentioned modes
  1. Station Mode 
  2. Access Point Mode 
  
- <b><i>station mode: </i></b>
+ <b><i>Station mode: </i></b>
 
  When ESP 32 is in station mode it can connect to othe WiFi networks like WiFi router
  
