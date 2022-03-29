@@ -1,25 +1,7 @@
 
 #  Connect ESP 32 to an open Wi-Fi network  
 # Description
- Scan the nearby Wi-Fi networks using ESP 32. Get the SSID, RSSI of a network 
- and check the authentication of the network (open network or secure network). ESP 32 has built in Wi-Fi (802.11 b/g/n (802.11n up to 150Mbps) protocol .Center frequency range of operating channel 2412 ~ 2484 MHz’s.    
  
-<h4 style="color:black;font-size:40px;"> <i><b>ESP32 Wi-Fi Modes:</b></i></h4>
-
-ESP 32 can operate under any of below mentioned modes 
- 1. Station Mode 
- 2. Access Point Mode 
- 
- <b><i>Station mode: </i></b>
-
- When ESP 32 is in station mode it can connect to othe WiFi networks like WiFi router
- 
- <b><i>Access Point Mode </i></b>
- 
- When we set ESP32 as in access point mode, we can be connected using any device with Wi-Fi capabilities 
- without connecting to the router. When we set the ESP32 as an access point, we can create its own 
-Wi-Fi network, and nearby Wi-Fi devices (stations) can connect to it, like Smartphone or computer.
-
 
 
 ## Installation 
