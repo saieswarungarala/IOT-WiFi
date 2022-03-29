@@ -4,7 +4,7 @@
  Scan the nearby Wi-Fi networks using ESP 32. Get the SSID, RSSI of a network 
  and check the authentication of the network (open network or secure network). ESP 32 has built in Wi-Fi (802.11 b/g/n (802.11n up to 150Mbps) protocol .Center frequency range of operating channel 2412 ~ 2484 MHz’s.    
  
-<h1 style="color:black;font-size:40px;"> <i><b>ESP32 Wi-Fi Modes:</b></i></h1>
+<h4 style="color:black;font-size:40px;"> <i><b>ESP32 Wi-Fi Modes:</b></i></h4>
 
 ESP 32 can operate under any of below mentioned modes 
  1. Station Mode 
