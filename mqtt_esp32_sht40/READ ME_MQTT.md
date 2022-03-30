@@ -75,7 +75,7 @@ Once we install the ESP 32 boards to the IDE it can automatically adds the WiFi 
  <b>#include "Adafruit_SHT4x.h"</b>
  <h4 style="color:black;font-size:40px;"> <b> 3.PubSubClient library> </b>  </h4>
  Include PubSubClient.h library for using MQTT protocol
- <b>#include<PubSubClient.h></b>
+<b>#include <PubSubClient.h></b>
 
  
 
