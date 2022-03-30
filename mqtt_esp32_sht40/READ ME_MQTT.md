@@ -27,11 +27,9 @@ browser.
    <ul style=“list-style-type:disc”>
 
    <li>Connection name --> provide a relevant name for your connection  You can choose your connection colour scheme </li>
-
    <li>Type host name as tcp://broker.hivemq.com </li>
-
-    <li>Port is 1883</li>
-    <li>Provide your user name and password these are getting when you add MQTTlens to the browser</li>
+   <li>Port is 1883</li>
+   <li>Provide your user name and password these are getting when you add MQTTlens to the browser</li>
 
     </ul>
    
