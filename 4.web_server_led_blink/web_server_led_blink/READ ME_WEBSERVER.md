@@ -10,13 +10,13 @@ By clicking buttons on the web server we can control the state of LED’s at ESP
 
 
 ## Installation 
- <h4 style="color:black;font-size:40px;"> <b> I.Arduino IDE</b>  </h4>
+ <h4 style="color:black;font-size:40px;"> <b> 1.Arduino IDE</b>  </h4>
   <i>step 1:</i>          
   Visit https://www.arduino.cc/en/Main/Software  to download the latest Arduino IDE version for your computer’s operating system. There are versions for Windows, Mac, and Linux systems.  
   <i>step 2:</i> Save the .exe file to your hard drive.  
   <i>step 3:</i>Open the .exe file & run the file and complete the Installation.       
 
-  <b><h4 style="color:black;font-size:40px;">II.Installing the ESP32 Board in Arduino IDE  </b>  </h4>
+  <b><h4 style="color:black;font-size:40px;">2.Installing the ESP32 Board in Arduino IDE  </b>  </h4>
    <i>step 1:</i> Connect ESP 32 board to the computer through USB cable  
    <i>step 2:</i> open the Arduino  
    <i>step 3:</i> 	Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
