@@ -8,21 +8,21 @@ browser.
 
 ## Installation 
  <h4 style="color:black;font-size:40px;"> <b> I.Arduino IDE</b>  </h4>
-  <i>step 1:</i>          
+  <b><i>step 1:</i></b>          
   Visit https://www.arduino.cc/en/Main/Software  to download the latest Arduino IDE version for your computer’s operating system. There are versions for Windows, Mac, and Linux systems.  
-  <i>step 2:</i> Save the .exe file to your hard drive.  
-  <i>step 3:</i>Open the .exe file & run the file and complete the Installation.       
+  <b><i>step 2:</i></b> Save the .exe file to your hard drive.  
+  <b><i>step 3:</i></b>Open the .exe file & run the file and complete the Installation.       
 
   <b><h4 style="color:black;font-size:40px;">II.Installing the ESP32 Board in Arduino IDE  </b>  </h4>
-   <i>step 1:</i> Connect ESP 32 board to the computer through USB cable  
-   <i>step 2:</i> open the Arduino  
-   <i>step 3:</i> 	Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
+   <b><i>step 1:</i></b> Connect ESP 32 board to the computer through USB cable  
+   <b><i>step 2:</i></b> open the Arduino  
+   <b><i>step 3:</i></b> 	Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
           https://dl.espressif.com/dl/package_esp32_index.json  
-   <i>step 4:</i>	Go to the Tools  >  boards  >  Board manager and then install the ESP 32  
+   <b><i>step 4:</i></b>	Go to the Tools  >  boards  >  Board manager and then install the ESP 32  
    
    <h4 style="color:black;font-size:40px;"> <b> III.MQTTlens </b>  </h4>
-   <i>Step 1:</i>For launching MQTTlens first just type MQTTlens in the Google chrome browser and click the option launch app after that it will automatically add               on to the Google chrome
-   <i>Step 2:</i>After launching add a new connection and provide required connection details such as
+   <b><i>Step 1:</i></b>For launching MQTTlens first just type MQTTlens in the Google chrome browser and click the option launch app after that it will      automatically add on to the Google chrome
+   <b><i>Step 2:</i></b>After launching add a new connection and provide required connection details such as
    
    <ul style=“list-style-type:disc”>
 
@@ -30,8 +30,10 @@ browser.
    <li>Type host name as tcp://broker.hivemq.com </li>
    <li>Port is 1883</li>
    <li>Provide your user name and password these are getting when you add MQTTlens to the browser</li>
-
    </ul>
+   <b><i>Step 3:</i></b>After creating the connection now you can give a topic name to subscribe messages 
+   from client 
+
    
    
    
