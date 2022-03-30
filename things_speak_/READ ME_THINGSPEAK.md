@@ -1,10 +1,14 @@
 
-#  MQTT Protocol with ESP 32
+#  ESP 32 Things Speak
  
 # Description
-The main of this experiment is getting some intuition about how MQTT communication is working.Using MQTT communication protocol with ESP 32 to publish and subscribe SHT40 (Temperature & Humidity) sensor data to topics & control the state of LED at the ESP 32 by publishing on/off messages to the ESP 32.We are using MQTTlens.MQTT Lens is an add-on for the chrome browser that lets you publish messages to an MQTT broker, subscribe to MQTT topics, and receive messages using the chrome web 
-browser. 
-
+The main aim of this experiment is how to send the SHT 40 sensor data to the things speak and 
+once we get the data at the things speak how to analyze the data at the things speak in terms of 
+plots, histograms etc. 
+<h4 style="color:black;font-size:40px;"> <b>Things Speak</b>  </h4>
+Things speak is an IOT analytics platform that’s allow us to aggregate, visualize, analyze live 
+data streams in the cloud. Things speak provide instant visualization of the data that is provided 
+by our device by running the MATLAB scripts. 
 
 ## Installation 
  <h4 style="color:black;font-size:40px;"> <b> 1.Arduino IDE</b>  </h4>
@@ -21,20 +25,7 @@ browser.
           https://dl.espressif.com/dl/package_esp32_index.json  
    <b><i>step 4:</i></b>	Go to the Tools  >  boards  >  Board manager and then install the ESP 32  
    
-   <h4 style="color:black;font-size:40px;"> <b> 3.MQTTlens </b>  </h4>
-   <b><i>Step 1:</i></b>For launching MQTTlens first just type MQTTlens in the Google chrome browser and click the option launch app after that it will      automatically add on to the Google chrome
-   
-   <b><i>Step 2:</i></b>After launching add a new connection and provide required connection details such as
-   
-   <ul style=“list-style-type:disc”>
-
-   <li>Connection name --> provide a relevant name for your connection  You can choose your connection colour scheme </li>
-   <li>Type host name as tcp://broker.hivemq.com </li>
-   <li>Port is 1883</li>
-   <li>Provide your user name and password these are getting when you add MQTTlens to the browser</li>
-   </ul>
-   <b><i>Step 3:</i></b>After creating the connection now you can give a topic name to subscribe messages 
-   from client 
+    
    
 
    
@@ -79,13 +70,13 @@ browser.
  
  For installing Adafruit_SHT4x.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install <b>Adafruit_SHT4x</b> library
  
- <h4 style="color:black;font-size:40px;"> <b> 3.PubSubClient library </b>  </h4>
+ <h4 style="color:black;font-size:40px;"> <b> 3.ThingSpeak </b>  </h4>
  
- Include PubSubClient.h library for using MQTT protocol
+ Include ThingSpeak.h library for using MQTT protocol
  
- <b>#include <PubSubClient.h></b>
+ <b>#include <ThingSpeak.h></b>
  
- For installing PubSubClient.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install <b>PubSubClient</b> library
+ For installing ThingSpeak.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install <b>ThingSpeak</b> library
 
  
 
@@ -101,11 +92,16 @@ browser.
 2.ESP 32 WROVER Module
  https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
 
-3.MQTTlens
-  https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm?hl=en
+3.SHT 40(Temperature & Humidity)Sensor
+  https://wiki.dfrobot.com/SHT40_Humidity_and_Temperature_Sensor_SKU_S
   
-4.MQTT guide
-  https://mqtt.org/getting-started/
+4.Things Speak
+  https://thingspeak.com/
+  
+
+
+  
+  
 
 
 
