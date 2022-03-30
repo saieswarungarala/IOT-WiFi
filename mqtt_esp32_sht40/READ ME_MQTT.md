@@ -22,6 +22,7 @@ browser.
    
    <h4 style="color:black;font-size:40px;"> <b> III.MQTTlens </b>  </h4>
    <b><i>Step 1:</i></b>For launching MQTTlens first just type MQTTlens in the Google chrome browser and click the option launch app after that it will      automatically add on to the Google chrome
+   
    <b><i>Step 2:</i></b>After launching add a new connection and provide required connection details such as
    
    <ul style=“list-style-type:disc”>
