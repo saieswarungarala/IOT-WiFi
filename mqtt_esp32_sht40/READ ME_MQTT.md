@@ -100,5 +100,12 @@ browser.
 2.ESP 32 WROVER Module
  https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
 
+3.MQTTlens
+  https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm?hl=en
+  
+4.MQTT guide
+  https://mqtt.org/getting-started/
+
+
 
 
