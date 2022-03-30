@@ -11,8 +11,7 @@ browser.
   <b><i>step 1:</i></b>          
   Visit https://www.arduino.cc/en/Main/Software  to download the latest Arduino IDE version for your computer’s operating system. There are versions for Windows,     Mac, and Linux systems.
   
-  <b><i>step 2:</i></b> Save the .exe file to your hard drive.
-  
+  <b><i>step 2:</i></b> Save the .exe file to your hard drive.  
   <b><i>step 3:</i></b>Open the .exe file & run the file and complete the Installation.       
 
   <b><h4 style="color:black;font-size:40px;">2.Installing the ESP32 Board in Arduino IDE  </b>  </h4>
