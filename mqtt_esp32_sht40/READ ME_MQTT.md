@@ -76,7 +76,7 @@ browser.
  
  <b>#include "Adafruit_SHT4x.h"</b>
  
- For installing Adafruit_SHT4x.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install Adafruit_SHT4x library
+ For installing Adafruit_SHT4x.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install <b>Adafruit_SHT4x</b> library
  
  <h4 style="color:black;font-size:40px;"> <b> 3.PubSubClient library </b>  </h4>
  
@@ -84,7 +84,7 @@ browser.
  
  <b>#include <PubSubClient.h></b>
  
- For installing PubSubClient.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install PubSubClient library
+ For installing PubSubClient.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install <b>PubSubClient</b> library
 
  
 
