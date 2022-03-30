@@ -34,6 +34,7 @@ browser.
    </ul>
    <b><i>Step 3:</i></b>After creating the connection now you can give a topic name to subscribe messages 
    from client 
+   
 
    
    
@@ -60,12 +61,23 @@ browser.
      
 
 
-## Required Libraries
-We need to include WiFi library to use WiFi funcationalities of ESP 32 WROVER -B Module
+## Required Libraries 
+<h4 style="color:black;font-size:40px;"> <b>1.WiFi Library</b>  </h4>
+
+Include WiFi library to use WiFi funcationalities of ESP 32 WROVER -B Module
 
 <b>#include <WiFi.h></b>
 
 Once we install the ESP 32 boards to the IDE it can automatically adds the WiFi library
+ 
+<h4 style="color:black;font-size:40px;"> <b> 2.Adafruit_SHT4x.h </b>  </h4>
+ Include Adafruit_SHT4x.h library for using the SHT 40 sensor
+ <b>#include "Adafruit_SHT4x.h"</b>
+ <h4 style="color:black;font-size:40px;"> <b> 3.PubSubClient.h> </b>  </h4>
+ Include PubSubClient.h library for using MQTT protocol
+ <b>#include <PubSubClient.h></b>
+
+ 
 
 
 
