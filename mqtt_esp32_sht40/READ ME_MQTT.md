@@ -2,7 +2,8 @@
 #  MQTT Protocol with ESP 32
  
 # Description
-The main of this experiment is getting some intuition about how MQTT communication is working.Using MQTT communication protocol with ESP 32 to publish and subscribe SHT40 (Temperature & Humidity) sensor data to topics & control the state of LED at the ESP 32 by publishing on/off messages to the ESP 32. 
+The main of this experiment is getting some intuition about how MQTT communication is working.Using MQTT communication protocol with ESP 32 to publish and subscribe SHT40 (Temperature & Humidity) sensor data to topics & control the state of LED at the ESP 32 by publishing on/off messages to the ESP 32.We are using MQTTlens.MQTT Lens is an add-on for the chrome browser that lets you publish messages to an MQTT broker, subscribe to MQTT topics, and receive messages using the chrome web 
+browser. 
 
 
 ## Installation 
@@ -18,6 +19,36 @@ The main of this experiment is getting some intuition about how MQTT communicati
    <i>step 3:</i> 	Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
           https://dl.espressif.com/dl/package_esp32_index.json  
    <i>step 4:</i>	Go to the Tools  >  boards  >  Board manager and then install the ESP 32  
+   
+   <h4 style="color:black;font-size:40px;"> <b> III.MQTTlens </b>  </h4>
+   <i>Step 1:</i>For launching MQTTlens first just type MQTTlens in the Google chrome browser and click the option launch app after that it will automatically add               on to the Google chrome
+   <i>Step 2:</i>After launching add a new connection and provide required connection details such as
+   
+   <ul style=“list-style-type:disc”>
+
+   <li>Connection name --> provide a relevant name for your connection  You can choose your connection colour scheme </li>
+
+   <li>Type host name as tcp://broker.hivemq.com </li>
+
+    <li>Port is 1883</li>
+    <li>Provide your user name and password these are getting when you add MQTTlens to the browser</li>
+
+    </ul>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+   
 
 
 
