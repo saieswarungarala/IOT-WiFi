@@ -31,7 +31,7 @@ browser.
    <li>Port is 1883</li>
    <li>Provide your user name and password these are getting when you add MQTTlens to the browser</li>
 
-    </ul>
+   </ul>
    
    
    
