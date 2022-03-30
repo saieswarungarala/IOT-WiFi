@@ -2,7 +2,7 @@
 #  MQTT Protocol with ESP 32
  
 # Description
-The main of this experiment is getting some intuition about how MQTT communication is working
+The main of this experiment is getting some intuition about how MQTT communication is working.Using MQTT communication protocol with ESP 32 to publish and subscribe random data to topics & control the state of LED at the ESP 32 by publishing on/off messages to the ESP 32. 
 
 
 ## Installation 
