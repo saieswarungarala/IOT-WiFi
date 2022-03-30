@@ -1,5 +1,5 @@
 
-#  ESP 32 Things Speak
+# Sending Sensor data from ESP 32 to Things speak 
  
 # Description
 The main aim of this experiment is how to send the SHT 40 sensor data to the things speak and 
