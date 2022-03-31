@@ -50,3 +50,18 @@ ESP 32.
    <i>step 3:</i> Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
                   https://dl.espressif.com/dl/package_esp32_index.json  
   <i> step 4:</i>	Go to the Tools  >  boards  >  Board manager and then install the ESP 32 
+  
+  <h4 style="color:black;font-size:40px;"> <b> 3.MQTTlens </b>  </h4>
+   <b><i>Step 1:</i></b>For launching MQTTlens first just type MQTTlens in the Google chrome browser and click the option launch app after that it will      automatically add on to the Google chrome
+   
+   <b><i>Step 2:</i></b>After launching add a new connection and provide required connection details such as
+   
+   <ul style=“list-style-type:disc”>
+
+   <li>Connection name --> provide a relevant name for your connection  You can choose your connection colour scheme </li>
+   <li>Type host name as tcp://broker.hivemq.com </li>
+   <li>Port is 1883</li>
+   <li>Provide your user name and password these are getting when you add MQTTlens to the browser</li>
+   </ul>
+   <b><i>Step 3:</i></b>After creating the connection now you can give a topic name to subscribe messages 
+   from client 
