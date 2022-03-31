@@ -39,4 +39,14 @@ ESP 32.
 
 <b>9.</b>Micro USB cable
 # Installation
-
+<b>1.Arduino IDE</b>   
+  <i>step 1:</i> Visit https://www.arduino.cc/en/Main/Software  to download the latest Arduino IDE version for your computer’s operating system. There are versions                      forWindows, Mac, and Linux systems.Download the suitable file for your system        
+  <i>step 2:</i> Save the .exe file to your hard drive.  
+  <i>step 3:</i> Open the .exe file & run the file and complete the Installation. 
+  
+  <b>2.Installing the ESP32 Board in Arduino IDE</b>  
+  <i> step 1:</i> Connect ESP 32 board to the computer through USB cable  
+     <i>step 2:</i> open the Arduino IDE        
+   <i>step 3:</i> Go to the file >  Preferences and then paste the below link at the Additional Boards Manager URL field
+                  https://dl.espressif.com/dl/package_esp32_index.json  
+  <i> step 4:</i>	Go to the Tools  >  boards  >  Board manager and then install the ESP 32 
