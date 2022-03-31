@@ -27,10 +27,14 @@ ESP 32.
 
 <b>3.</b>SHT 40 (Temperature & Humidity) sensor
 
-<b>4.</b>Bread board
+<b>4.</b>MQTTlense
 
-<b>5.</b>Jumper wires
+<b>5.</b>Things speak
 
-<b>6.</b>LED's
+<b>6.</b>Bread board
 
-<b>7.</b>Micro USB cable
+<b>7.</b>Jumper wires
+
+<b>8.</b>LED's
+
+<b>9.</b>Micro USB cable
