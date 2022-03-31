@@ -6,4 +6,8 @@ This project contains list experiments on ESP 32 WROVER -B module.All these expe
 2.Scan the nearby Wi-Fi networks using ESP 32. Get the SSID, RSSI of a network and check the authentication of the network (open network or secure network)
 
 3.Connection
+<ul style=“list-style-type:disc”>
+  <li>Connect ESP 32 to an open Wi-Fi network</li>
+  <li>Connect ESP 32 to an encrypted WPA2 network </li>
+  </ul>
 
