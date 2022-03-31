@@ -90,3 +90,17 @@ ESP 32.
  <b>#include <ThingSpeak.h></b>
  
  For installing ThingSpeak.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install <b>ThingSpeak</b> library
+   
+# Reference Documents
+   
+1.Installing guide for Arduino IDE
+          https://www.circuitbasics.com/arduino-basics-installing-software/ 
+          
+2.ESP 32 WROVER Module
+ https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
+
+3.SHT 40(Temperature & Humidity)Sensor
+  https://wiki.dfrobot.com/SHT40_Humidity_and_Temperature_Sensor_SKU_S
+  
+4.Things Speak
+  https://thingspeak.com/
