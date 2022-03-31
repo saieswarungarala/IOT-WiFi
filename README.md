@@ -65,3 +65,28 @@ ESP 32.
    </ul>
    <b><i>Step 3:</i></b>After creating the connection now you can give a topic name to subscribe messages 
    from client 
+
+# Required Libraries 
+ <h4 style="color:black;font-size:40px;"> <b>1.WiFi Library</b>  </h4>
+
+ Include WiFi library to use WiFi funcationalities of ESP 32 WROVER -B Module
+
+ <b>#include <WiFi.h></b> 
+ 
+ Once we install the ESP 32 boards to the IDE it can automatically adds the WiFi library
+ 
+ <h4 style="color:black;font-size:40px;"> <b> 2.Adafruit_SHT4x library</b>  </h4>
+ 
+ Include Adafruit_SHT4x.h library for using the SHT 40 sensor
+ 
+ <b>#include "Adafruit_SHT4x.h"</b>
+ 
+ For installing Adafruit_SHT4x.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install <b>Adafruit_SHT4x</b> library
+ 
+ <h4 style="color:black;font-size:40px;"> <b> 3.ThingSpeak </b>  </h4>
+ 
+ Include ThingSpeak.h library for using MQTT protocol
+ 
+ <b>#include <ThingSpeak.h></b>
+ 
+ For installing ThingSpeak.h library,in arduino go to <b>Tools</b> --> <b>manage libraries</b>-->install <b>ThingSpeak</b> library
