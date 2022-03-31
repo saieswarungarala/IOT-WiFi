@@ -22,6 +22,8 @@ ESP 32.
 # Equipment Required
 <b>1.</b>ESP 32 WROVER -B Module
 <b>2.</b>Arduino IDE
-<b>3.</b>SHT 40 (Temperature & Humidity) Sensor
+<b>3.</b>SHT 40 (Temperature & Humidity) sensor
 <b>4.</b>Bread board
-<b>5.</b>Jumper Wires
+<b>5.</b>Jumper wires
+<b>6.</b>LED's
+<b>7.</b>Micro USB cable
