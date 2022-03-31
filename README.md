@@ -18,3 +18,10 @@ to topics & control the state of LED at the ESP 32 by publishing on/off messages
 ESP 32. 
 
 <b>6.</b>Sending SHT 40 sensor data (Humidity & Temperature) from the ESP 32 to things speak and analyze the data in terms of plots at the things speak.
+
+# Equipment Required
+<b>1.</b>ESP 32 WROVER -B Module
+<b>2.</b>Arduino IDE
+<b>3.</b>SHT 40 (Temperature & Humidity) Sensor
+<b>4.</b>Bread board
+<b>5.</b>Jumper Wires
