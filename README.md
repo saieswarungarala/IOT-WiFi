@@ -10,4 +10,11 @@ This project contains list experiments on ESP 32 WROVER -B module.All these expe
   <li>Connect ESP 32 to an open Wi-Fi network</li>
   <li>Connect ESP 32 to an encrypted WPA2 network </li>
   </ul>
+  
+<b>4.</b>Build a web server using ESP 32 and control the LED’s state at the ESP 32 from the web server.
 
+<b>5.</b>MQTT communication protocol with ESP 32 to publish and subscribe random data 
+to topics & control the state of LED at the ESP 32 by publishing on/off messages to the 
+ESP 32. 
+
+<b>6.</b>Sending SHT 40 sensor data (Humidity & Temperature) from the ESP 32 to things speak and analyze the data in terms of plots at the things speak.
